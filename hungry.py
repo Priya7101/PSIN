@@ -8,3 +8,5 @@ if hungry=="yes":
 else:
     if thirsty == "yes":
         print("drink water")
+        print("drink juice")
+        print("drink soda")
