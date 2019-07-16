@@ -1,7 +1,16 @@
 print("HungryFood items-")
-hungry = "yes"
+hungry = "no"
+thirsty = "yes"
 if hungry=="yes":
     print("eat pizza")
     print("eat burger")
     print("eat fries")
+<<<<<<< HEAD
     print("eat samosa")
+=======
+else:
+    if thirsty == "yes":
+        print("drink water")
+        print("drink juice")
+        print("drink soda")
+>>>>>>> thirsty
